@@ -1647,6 +1647,8 @@ rem ============== LENH DUOC BUIL SAN ==========================================
                 echo        * mdm
                 echo        * Bo cong cu SIM
                 echo - Ung dung JT ban cu se duoc XOA
+                echo - Tao thu muc apk_file
+                echo - Sao chep file cai app JT vao thiep bi
                 echo.
                 echo ============================================================
                 echo.
